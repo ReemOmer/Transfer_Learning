@@ -1,4 +1,4 @@
-# Transfer_Learning
+# WQV_Transfer_Learning
 In this project, machine learning (ML) methods were used to predict and forecast quantitative characteristics of water bodies. Such predictions are aimed at providing water researchers with a better grasp on how various characteristics relate to each other. Machine learning models are highly dependent on data availability. For measuring stations where data is abundant, ML models learn from historical data. However, where data is sparse, transfer learning can be applied. Transfer learning is the ability to leverage knowledge gained from one ML model in another. The objectives of this project are:
   • Apply transfer learning to develop predictive models.
   • Compare transferred models to stand alone models.
